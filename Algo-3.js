@@ -18,11 +18,8 @@ Au final la liste devra ressembler à :
 function theaterSieges() {
     // Your code here !
     let seat = array()
-        for (let i = 0; i < 100; i++)
-            seat[i] = array;
-        for(let i = 0; i < 100; i++)
-        for(var j = 0; j < 26; j++)
-            seat[i][j] = 0;
+        for (let i = 1; i < 100; i++)
+        for(let j = 1; j < 26; j++)
+       
   }
-  
   console.log(theaterSieges());
